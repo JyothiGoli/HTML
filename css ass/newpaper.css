@@ -90,7 +90,7 @@
     margin : 0 auto;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 900px)  {
     .title{
         display : flex;
        flex-direction: column;
